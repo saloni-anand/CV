@@ -1,4 +1,6 @@
 # CV
+The website is completely built in HTML. 
+
 # Images
 ![readme (1)](https://user-images.githubusercontent.com/51950069/78714799-13794480-793a-11ea-83f9-80c72862caf8.png)
 
